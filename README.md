@@ -11,7 +11,7 @@
 ![4-Initialize an empty git repository](https://user-images.githubusercontent.com/117317521/200083608-b8e590ac-b7ae-4b56-a53a-f39d40d2228d.png)
 
 5-Add third.txt to the staging area.
-
+![5-Add third txt to the staging area](https://user-images.githubusercontent.com/117317521/200083624-ebc89348-9119-470c-a14c-1ddb241c2022.png)
 
 
 6-Commit with the message "adding third.txt".
